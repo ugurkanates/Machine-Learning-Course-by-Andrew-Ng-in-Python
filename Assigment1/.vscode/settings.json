@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/usr/bin/python",
+    "env": {"PYTHONPATH": "${workspaceRoot}"},
+
+
+}
